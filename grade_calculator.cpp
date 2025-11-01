@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int numSubjects;
     float marks[100], total = 0, average;
     int i;
